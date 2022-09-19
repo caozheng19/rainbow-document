@@ -1,0 +1,2 @@
+21:03:56.315 [Thread-7] ERROR o.j.l.o.VerboseProcess - [run,83] - vkEnumeratePhysicalDevices returned no supported devices.
+21:03:56.328 [Thread-7] ERROR o.j.l.o.VerboseProcess - [run,83] - vkEnumeratePhysicalDevices returned no supported devices.

@@ -1,0 +1,24 @@
+20:39:54.419 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: OpenOffice - Version: ??? - useLongOptionNameGnuStyle: false
+20:39:55.534 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+20:39:59.791 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+20:39:59.794 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 44360
+20:39:59.797 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+20:40:07.568 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+20:40:07.605 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+20:40:07.843 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0
+20:43:12.437 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: OpenOffice - Version: ??? - useLongOptionNameGnuStyle: false
+20:43:13.392 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+20:43:16.192 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+20:43:16.194 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 12620
+20:43:16.196 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+20:43:23.366 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+20:43:23.398 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+20:43:23.637 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0
+21:02:50.647 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: LibreOffice - Version: ??? - useLongOptionNameGnuStyle: true
+21:02:51.468 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+21:03:52.082 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+21:03:52.084 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 45628
+21:03:52.086 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+21:03:55.337 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+21:03:55.668 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+21:03:56.379 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0

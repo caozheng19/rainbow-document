@@ -1,0 +1,42 @@
+10:27:56.636 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: LibreOffice - Version: ??? - useLongOptionNameGnuStyle: true
+10:27:57.506 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+10:28:59.956 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+10:28:59.958 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 12528
+10:28:59.960 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+10:29:03.322 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+10:29:03.697 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+10:29:04.370 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0
+10:30:16.158 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: LibreOffice - Version: ??? - useLongOptionNameGnuStyle: true
+10:30:17.401 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+10:31:18.581 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+10:31:18.584 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 16000
+10:31:18.585 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+10:31:21.408 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+10:31:21.754 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+10:31:22.473 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0
+12:35:45.138 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeDescriptor - [fromExecutablePath,100] - soffice info (from exec path): Product: LibreOffice - Version: ??? - useLongOptionNameGnuStyle: true
+12:35:45.907 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,395] - Starting process with --accept 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1;urp;StarOffice.ServiceManager' and profileDir 'C:\Users\SUPERC~1\AppData\Local\Temp\.jodconverter_socket_host-127.0.0.1_port-2002_tcpNoDelay-1'
+12:36:46.388 [jodconverter-offprocmng-0] INFO  o.j.l.o.OfficeConnection - [connect,177] - Connected: 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+12:36:46.390 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [startProcessAndConnect,409] - Started process; pid: 18220
+12:36:46.392 [jodconverter-poolentry-1] INFO  o.j.l.t.LocalConversionTask - [execute,93] - Executing local conversion task [docx -> pdf]...
+12:36:49.294 [main] INFO  o.j.c.o.AbstractOfficeManagerPool - [stop,142] - Stopping the office manager pool...
+12:36:49.622 [MessageDispatcher] INFO  o.j.l.o.OfficeConnection - [disposing,221] - Disconnected from 'socket,host=127.0.0.1,port=2002,tcpNoDelay=1'
+12:36:50.346 [jodconverter-offprocmng-0] INFO  o.j.l.o.LocalOfficeProcessManager - [ensureProcessExited,719] - Process exited with code 0
+18:50:26.421 [restartedMain] INFO  e.c.r.AdminApplication - [logStarting,55] - Starting AdminApplication using Java 1.8.0_172 on Lenovo-T440 with PID 25416 (E:\Rainbow\rainbow-document\target\classes started by Super Cheng in E:\Rainbow\rainbow-document)
+18:50:26.459 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+18:50:26.480 [restartedMain] INFO  e.c.r.AdminApplication - [logStartupProfileInfo,681] - The following 1 profile is active: "druid"
+18:50:35.365 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+18:50:35.367 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:50:35.367 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+18:50:35.723 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:50:42.208 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2071] - {dataSource-1} closing ...
+18:50:42.209 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2144] - {dataSource-1} closed
+18:50:42.871 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+18:53:07.592 [restartedMain] INFO  e.c.r.AdminApplication - [logStarting,55] - Starting AdminApplication using Java 1.8.0_172 on Lenovo-T440 with PID 21524 (E:\Rainbow\rainbow-document\target\classes started by Super Cheng in E:\Rainbow\rainbow-document)
+18:53:07.609 [restartedMain] INFO  e.c.r.AdminApplication - [logStartupProfileInfo,681] - The following 1 profile is active: "druid"
+18:53:12.110 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+18:53:12.112 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:53:12.113 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+18:53:12.351 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:53:13.899 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+18:53:14.649 [restartedMain] INFO  e.c.r.AdminApplication - [logStarted,61] - Started AdminApplication in 8.299 seconds (JVM running for 10.355)
